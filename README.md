@@ -1,7 +1,7 @@
 # Front End Ominx Challenge
 
 
-Link da demo: 
+Link da demo: https://comfy-pony-dd035d.netlify.app/
 
 
 ## 💻 Tecnologias
